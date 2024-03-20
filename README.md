@@ -2,11 +2,33 @@
 ### <p align="center"> UI/UX Enthusiast | Amateur Baker | Succulent Collector </p>
 
 <p align="center">
-  <img width="420" height="300" src="https://tenor.com/en-GB/view/cute-dog-hi-corgi-gif-18081778" alt="animated" />
+  <img src="https://github.com/mariahvadak/mariahvadak/assets/111252367/92475bdf-8d85-4e15-ad4c-60900c43c896" alt="animated"/>
 </p>
 
 ## 🌟 About Me
-Hey there! I'm Mariah, a Computer Science student currently pursuing my degree at the University of Oklahoma. When I'm not coding away, you can find me indulging in a variety of hobbies that keep life exciting!
+Hey there! I'm Mariah, a Computer Science student currently pursuing my degree at the University of Oklahoma. I enjoy working on front-end projects and researching how UI/UX elements impact user interactions with different interfaces. When I'm not coding away, you can find me indulging in a variety of hobbies that keep life exciting!
+
+## 🤝 Connect with Me
+<p align="center">
+  <kbd>
+  <a href="https://www.linkedin.com/in/mariahvadakekut/">
+    <img height="200" src="https://github.com/mariahvadak/mariahvadak/assets/111252367/82645d6e-1a09-44dc-8198-fb5ce89a1eae" alt="linkedin" style="margin-right: 50px;" />
+  </a>
+  </kbd>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <kbd>
+  <a href="https://mariahvadak.github.io/web-portfolio/">
+    <img height="200" src="https://github.com/mariahvadak/mariahvadak/assets/111252367/759e4f7e-aee0-480a-8068-85d4f79e36da" alt="linkedin"/>
+  </a>
+  </kbd>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <kbd>
+  <a href="mailto:mariahvadak@gmail.com">
+    <img height="200" src="https://github.com/mariahvadak/mariahvadak/assets/111252367/c0f8b411-582b-4e88-913f-892b706a8bc6" alt="email"/>
+  </a>
+  </kbd>
+</p>
+
 
 ## 📝 Hobbies
 • Traveling ✈️ <br />

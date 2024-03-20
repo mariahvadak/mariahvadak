@@ -12,19 +12,19 @@ Hey there! I'm Mariah, a Computer Science student currently pursuing my degree a
 <p align="center">
   <kbd>
   <a href="https://www.linkedin.com/in/mariahvadakekut/">
-    <img height="200" src="https://github.com/mariahvadak/mariahvadak/assets/111252367/82645d6e-1a09-44dc-8198-fb5ce89a1eae" alt="linkedin" style="margin-right: 50px;" />
+    <img height="150" width="250" src="https://github.com/mariahvadak/mariahvadak/assets/111252367/82645d6e-1a09-44dc-8198-fb5ce89a1eae" alt="linkedin" style="margin-right: 50px;" />
   </a>
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
   <a href="https://mariahvadak.github.io/web-portfolio/">
-    <img height="200" src="https://github.com/mariahvadak/mariahvadak/assets/111252367/759e4f7e-aee0-480a-8068-85d4f79e36da" alt="linkedin"/>
+    <img height="150" src="https://github.com/mariahvadak/mariahvadak/assets/111252367/759e4f7e-aee0-480a-8068-85d4f79e36da" alt="linkedin"/>
   </a>
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
   <a href="mailto:mariahvadak@gmail.com">
-    <img height="200" src="https://github.com/mariahvadak/mariahvadak/assets/111252367/c0f8b411-582b-4e88-913f-892b706a8bc6" alt="email"/>
+    <img height="150" src="https://github.com/mariahvadak/mariahvadak/assets/111252367/c0f8b411-582b-4e88-913f-892b706a8bc6" alt="email"/>
   </a>
   </kbd>
 </p>

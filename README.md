@@ -6,7 +6,7 @@
 </p>
 
 ## 🌟 About Me
-Hey there! I'm Mariah, a Computer Science student currently pursuing my degree at the University of Oklahoma. I enjoy working on front-end projects and researching how UI/UX elements impact user interactions with different interfaces. When I'm not coding away, you can find me indulging in a variety of hobbies that keep life exciting!
+Hey there! I'm Mariah, a recent graduate from the University of Oklahoma; now working as a full-time Software Developer. I enjoy working on front-end projects and researching how UI/UX elements impact user interactions with different interfaces. When I'm not coding, you can find me indulging in a variety of hobbies!
 
 ## 🤝 Connect with Me
 <p align="center">
